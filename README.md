@@ -34,5 +34,10 @@ approach:
 
 ![dadda](https://github.com/user-attachments/assets/c2c4a9db-b9e4-46e1-bffe-c45f9786877a)
 
+#### multiply examples
+![image](https://github.com/user-attachments/assets/15b7919d-65e7-40c9-8b18-e29b5d4178c6)
+
+![image](https://github.com/user-attachments/assets/4102c7af-7fc7-45a9-bbd5-97c47db9b63f)
+
 
 ### attempt 2: multi cycle: Work in progress
