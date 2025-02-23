@@ -46,3 +46,8 @@ approach:
 
 
 ### attempt 2: multi cycle: Work in progress
+
+
+![image](https://github.com/user-attachments/assets/0daa02c0-c54b-4643-b1cb-714cab9a1127)
+![image](https://github.com/user-attachments/assets/d5eafc15-2aed-4f1b-a48e-f468f330057d)
+![image](https://github.com/user-attachments/assets/29e770f7-9d5a-4fed-a453-21b430ae3fd8)
