@@ -98,7 +98,15 @@ sign is xor, exponent adds (and bis subtracted), and 20 prtial products added ea
 
 
 
+
+
 ![image](https://github.com/user-attachments/assets/cf87c06b-e6f8-48a3-af9b-ad512a385c57)
 ![image](https://github.com/user-attachments/assets/7205911e-9d85-4a19-873e-6c8f1970700e)
 ![image](https://github.com/user-attachments/assets/b72d6519-c36a-4c53-aa57-03d3c48ac254)
 ![image](https://github.com/user-attachments/assets/77223ac2-ef2d-47aa-8626-a8e1549716ae)
+
+
+
+
+evcen negatives
+![image](https://github.com/user-attachments/assets/c148eaa0-d7c3-40f6-a8d3-a115b4b90fef)
