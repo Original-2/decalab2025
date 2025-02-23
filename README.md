@@ -45,9 +45,42 @@ approach:
 ![image](https://github.com/user-attachments/assets/3afb273a-e41a-4931-8c3a-74ca61a34deb)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### attempt 2: multi cycle: Work in progress
 
 
 ![image](https://github.com/user-attachments/assets/0daa02c0-c54b-4643-b1cb-714cab9a1127)
 ![image](https://github.com/user-attachments/assets/d5eafc15-2aed-4f1b-a48e-f468f330057d)
 ![image](https://github.com/user-attachments/assets/29e770f7-9d5a-4fed-a453-21b430ae3fd8)
+
+method: 
+
+#### sum 4 prtil products t any given time
+![image](https://github.com/user-attachments/assets/0dc162b6-1f45-45e8-be27-3fc1fd9f03de)
+
+#### normalise
+![image](https://github.com/user-attachments/assets/a047385f-c749-4267-a884-d4df59da2340)
+
+sign is xor, exponent adds (and bis subtracted), and 20 prtial products added each time
+![image](https://github.com/user-attachments/assets/9745078b-0da6-4b20-8e79-9fdd4483b772)
+
+#### dont increment PC depending on state of multiply
+
+![image](https://github.com/user-attachments/assets/86f7a28f-56a2-4f1e-9b73-b189de273bcf)
+![image](https://github.com/user-attachments/assets/c9667426-700d-4d3f-8920-12b6ef124a32)
+
+#### write on 5th cycle of multiply
+
+![image](https://github.com/user-attachments/assets/b995c42a-e821-4c32-9e86-f63480ce1825)
