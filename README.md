@@ -87,3 +87,8 @@ sign is xor, exponent adds (and bis subtracted), and 20 prtial products added ea
 ![image](https://github.com/user-attachments/assets/348b2c41-4580-4d8a-bc11-d8fbee8ef6e2)
 ![image](https://github.com/user-attachments/assets/f69d139a-5d1b-478a-8411-0d6c438f7a5f)
 ![image](https://github.com/user-attachments/assets/465086c3-292d-4708-bdbd-3fd555f1b7ba)
+![image](https://github.com/user-attachments/assets/391746bf-11e5-4edc-a36d-3049629f402d)
+![image](https://github.com/user-attachments/assets/e522392d-bdfc-4c93-8062-ee433603dc06)
+![image](https://github.com/user-attachments/assets/eaaf4e4e-4c52-49a3-bf82-fecc38521284)
+
+
