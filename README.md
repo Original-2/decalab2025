@@ -27,27 +27,8 @@ approach:
 #### multiply dot diagram
 ![dadda](https://github.com/user-attachments/assets/c2c4a9db-b9e4-46e1-bffe-c45f9786877a)
 
-#### multiply examples
-![image](https://github.com/user-attachments/assets/15b7919d-65e7-40c9-8b18-e29b5d4178c6)
-![image](https://github.com/user-attachments/assets/4102c7af-7fc7-45a9-bbd5-97c47db9b63f)
 
-#### shift exmples
-
-![image](https://github.com/user-attachments/assets/8426d469-1e5c-4789-badc-d160611705eb)
-![image](https://github.com/user-attachments/assets/03eb919e-129a-42a7-97db-dbf2506f227e)
-![image](https://github.com/user-attachments/assets/3afb273a-e41a-4931-8c3a-74ca61a34deb)
-
-
-
-
-
-
-
-
-
-
-
-
+EVERYTHING ELSE SAME AS BELOW. ISSIE FILE LOST SO ONLY ATTEMPT 2 ATTATCHED.
 
 
 
