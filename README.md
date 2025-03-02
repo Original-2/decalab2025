@@ -84,3 +84,8 @@ sign is xor, exponent adds (and bis subtracted), and 20 prtial products added ea
 
 evcen negatives
 ![image](https://github.com/user-attachments/assets/c148eaa0-d7c3-40f6-a8d3-a115b4b90fef)
+
+
+
+
+BOTH ROUNDED BY TRUNCATION (ROUNDING TOWARDS 0)
