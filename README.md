@@ -18,12 +18,6 @@ approach:
 #### datapath
 ![datapath](https://github.com/user-attachments/assets/c3f6e0cf-b727-4e19-9fb5-5e7d848f924d)
 
-#### ALU
-![ALU](https://github.com/user-attachments/assets/9641b742-4a12-4fa1-92b2-479148915db3)
-
-#### normalise
-![normalise](https://github.com/user-attachments/assets/ca9e6c08-7b94-4be7-99bf-5dedb0710993)
-
 #### multiplier
 ![multiplier](https://github.com/user-attachments/assets/f54c39bf-80e9-41c5-ae1a-6dfeaca53d74)
 
@@ -31,7 +25,6 @@ approach:
 ![carry generation](https://github.com/user-attachments/assets/a5b2feb5-4056-46b0-a94d-595352a80122)
 
 #### multiply dot diagram
-
 ![dadda](https://github.com/user-attachments/assets/c2c4a9db-b9e4-46e1-bffe-c45f9786877a)
 
 #### multiply examples
