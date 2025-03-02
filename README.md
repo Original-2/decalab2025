@@ -32,7 +32,7 @@ EVERYTHING ELSE SAME AS BELOW. ISSIE FILE LOST SO ONLY ATTEMPT 2 ATTATCHED.
 
 
 
-### attempt 2: multi cycle: Work in progress
+### attempt 2: multi cycle
 
 
 ![image](https://github.com/user-attachments/assets/0daa02c0-c54b-4643-b1cb-714cab9a1127)
