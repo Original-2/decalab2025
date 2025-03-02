@@ -10,7 +10,7 @@ observations:
 - wanted to do a single cycle approach to be the same as the rest of the instructions
 
 approach:
-- generate combinational logic with python file
+- generate combinational logic with python file - https://github.com/Original-2/decalab2025/blob/main/veriloggenerator.py
 - carries are wholly combinational and therefore dont use adders
 - used optimised dadda tree for remaining additions
 - see images for hardware
