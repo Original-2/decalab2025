@@ -97,6 +97,6 @@ BOTH ROUNDED BY TRUNCATION (ROUNDING TOWARDS 0)
 
 other regs
 
-![image](https://github.com/user-attachments/assets/6951ea86-64fe-4539-ad92-d2de43b05022)
+![image](https://github.com/user-attachments/assets/cd3c0b79-0c9f-4dad-9273-c53e87f4f301)
 
 
