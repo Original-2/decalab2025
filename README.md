@@ -89,3 +89,9 @@ evcen negatives
 
 
 BOTH ROUNDED BY TRUNCATION (ROUNDING TOWARDS 0)
+
+![image](https://github.com/user-attachments/assets/f298390a-4971-4fe1-a234-9ce23d43799c)
+
+
+other regs
+
