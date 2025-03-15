@@ -34,6 +34,8 @@ EVERYTHING ELSE SAME AS BELOW. ISSIE FILE LOST SO ONLY ATTEMPT 2 ATTATCHED.
 
 ### attempt 2: multi cycle
 
+![image](https://github.com/user-attachments/assets/c90d3005-edb8-4c23-b4f0-9efdb188d256)
+
 
 ![image](https://github.com/user-attachments/assets/0daa02c0-c54b-4643-b1cb-714cab9a1127)
 ![image](https://github.com/user-attachments/assets/d5eafc15-2aed-4f1b-a48e-f468f330057d)
@@ -94,4 +96,7 @@ BOTH ROUNDED BY TRUNCATION (ROUNDING TOWARDS 0)
 
 
 other regs
+
+![image](https://github.com/user-attachments/assets/6951ea86-64fe-4539-ad92-d2de43b05022)
+
 
